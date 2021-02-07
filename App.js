@@ -15,7 +15,7 @@ export default function App() {
             <View><Text>O 필수교양  </Text></View>
             <View><Text>O 일반교양  </Text></View>
             <View><Text>O 전공필수  </Text></View>
-            <View><Text>O 전공선택</Text></View>
+            <View><Text>O 전공선택좌</Text></View>
           </View>
         </View>
 
